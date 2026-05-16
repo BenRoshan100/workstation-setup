@@ -4,8 +4,6 @@
 ## Who I am
 - DS2 / Applied AI profile with 4+ years in fintech analytics
 - Domain: UPI rewards, experimentation, LLM agents, fraud, lending
-- Target: International MNC roles (Intuit, Adobe, Atlassian, Tide, Stripe)
-- Exit window: Sep–Nov 2026 | Target CTC: ₹35–55 LPA
 
 ## Project overview
 [FILL THIS IN PER PROJECT — replace this line with 2 sentences about what this project does]
